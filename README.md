@@ -1,41 +1,41 @@
 Hi, I'm Colin 👋
+
 Senior Implementation Engineer | M.S. in Business Analytics & Artificial Intelligence
 
-I'm a Senior Implementation Engineer with a passion for using data, analytics, and AI to solve real-world problems.
+I'm a Senior Implementation Engineer with a passion for using data, analytics, and AI to solve real-world problems. I'm currently at the University of Maryland, where I'm completing my Master's in Business Analytics & AI, graduating in 2026.
 
-I'm currently at the University of Maryland, completing my Master's in Business Analytics & Artificial Intelligence, with an expected graduation in 2026.
-
-Tools & Technologies
-
+Tools and Technologies
 Languages & Analytics
 
-Python SQL R
+Python
+
+SQL
+
+R
 
 Data & Visualization
 
-Tableau Power BI Hadoop Hive
+Tableau
 
-Cloud & Data Platforms
+Power BI
 
-Cloud Technologies Data Platforms
+Hadoop
+
+Hive
+
+Cloud technologies & data platforms
 
 Featured Projects
 Student Academic Performance
 
-Predictive analytics project focused on identifying the factors that influence student academic performance and using those insights to support data-driven decision making.
+Predictive analytics project focused on identifying factors that influence student academic performance.
 
 Building Carbon Emissions
 
-Machine learning project using multiple linear regression models to predict carbon emissions based on building characteristics and related data.
+Machine learning project using multiple types of linear regression to predict carbon emissions based on building characteristics and data.
 
 Beyond Data
 
-When I'm not working with data, you'll probably find me following or playing sports. I'm a fan of:
+When I'm not working with data, you'll probably find me following or playing sports. I'm a fan of football, basketball, golf, and pickleball.
 
-Football · Basketball · ⛳ Golf · 🏓 Pickleball
-
-Outside of sports, I enjoy comedy shows, movies, television, books, and finding new places to play board games.
-
-📫 Let's Connect
-
-I'm always interested in connecting with people working in data, analytics, AI, and technology.
+Outside of sports, you might also see me at a comedy show, at the movie theater, or searching for a great place to play board games.
