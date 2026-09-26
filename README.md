@@ -1,41 +1,38 @@
-Hi, I'm Colin 👋
+# Hi, I'm Colin 👋
 
-Senior Implementation Engineer | M.S. in Business Analytics & Artificial Intelligence
+**Senior Implementation Engineer | M.S. in Business Analytics & Artificial Intelligence**
 
-I'm a Senior Implementation Engineer with a passion for using data, analytics, and AI to solve real-world problems. I'm currently at the University of Maryland, where I'm completing my Master's in Business Analytics & AI, graduating in 2026.
+I'm a Senior Implementation Engineer with a passion for using **data, analytics, and AI** to solve real-world problems. I'm currently at the **University of Maryland**, where I'm completing my **Master's in Business Analytics & AI**, graduating in **2026**.
 
-Tools and Technologies
-Languages & Analytics
 
-Python
+## **Tools and Technologies**
 
-SQL
+### **Languages & Analytics**
 
-R
+- **Python**
+- **SQL**
+- **R**
 
-Data & Visualization
+### **Data & Visualization**
 
-Tableau
+- **Tableau**
+- **Power BI**
+- **Hadoop**
+- **Hive**
+- **Cloud technologies & data platforms**
 
-Power BI
 
-Hadoop
+## **Featured Projects**
 
-Hive
+### **Student Academic Performance**
 
-Cloud technologies & data platforms
+Predictive analytics project focused on identifying factors that influence **student academic performance**.
 
-Featured Projects
-Student Academic Performance
+### **Building Carbon Emissions**
 
-Predictive analytics project focused on identifying factors that influence student academic performance.
+Machine learning project using **multiple types of linear regression** to predict **carbon emissions** based on building characteristics and data.
 
-Building Carbon Emissions
+## **Beyond Data**
 
-Machine learning project using multiple types of linear regression to predict carbon emissions based on building characteristics and data.
+When I'm not working with data, you'll probably find me following or playing sports. I'm a fan of **football, basketball, golf, and pickleball**.
 
-Beyond Data
-
-When I'm not working with data, you'll probably find me following or playing sports. I'm a fan of football, basketball, golf, and pickleball.
-
-Outside of sports, you might also see me at a comedy show, at the movie theater, or searching for a great place to play board games.
